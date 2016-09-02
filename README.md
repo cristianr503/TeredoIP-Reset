@@ -6,4 +6,6 @@ Steps:
 2. Run this Bat Script as Administrator.
 3. Open the Windows 10 Xbox app and join a party.
 
+Note: Sometimes you may have to run this script then restart your computer and run it again.
+
 You're Welcome!
